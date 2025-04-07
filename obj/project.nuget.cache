@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gwarnP4EjAM=",
+  "dgSpecHash": "t7wyJwYL41U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mplsa\\Documents\\dio\\desafio-c#\\Todo\\Todo.csproj",
+  "projectFilePath": "C:\\Users\\mplsa\\Documents\\java_csharp\\copias-secoes\\secao-projeto-carrossel- LASTVERSION\\csharp\\Todo-mvc-dotNet\\Todo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mplsa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mplsa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -2539,11 +2539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mplsa\\Documents\\dio\\desafio-c#\\Todo\\Todo.csproj",
+      "projectUniqueName": "C:\\Users\\mplsa\\Documents\\java_csharp\\copias-secoes\\secao-projeto-carrossel- LASTVERSION\\csharp\\Todo-mvc-dotNet\\Todo.csproj",
       "projectName": "Todo",
-      "projectPath": "C:\\Users\\mplsa\\Documents\\dio\\desafio-c#\\Todo\\Todo.csproj",
+      "projectPath": "C:\\Users\\mplsa\\Documents\\java_csharp\\copias-secoes\\secao-projeto-carrossel- LASTVERSION\\csharp\\Todo-mvc-dotNet\\Todo.csproj",
       "packagesPath": "C:\\Users\\mplsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mplsa\\Documents\\dio\\desafio-c#\\Todo\\obj\\",
+      "outputPath": "C:\\Users\\mplsa\\Documents\\java_csharp\\copias-secoes\\secao-projeto-carrossel- LASTVERSION\\csharp\\Todo-mvc-dotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mplsa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2605,7 +2605,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -75,6 +75,8 @@ namespace Todo.Controllers
             @ViewData["Title"] = "Excluir Tarefa";
             return View(todo);
         }
+        
+        [HttpPost]
         public IActionResult Delete(Todos todo)
         {
             _context.Todos.Remove(todo);

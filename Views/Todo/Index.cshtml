@@ -10,7 +10,7 @@
          <tr>
             <th scope="col">#</th>
             <th scope="col">Título</th>
-            <th scope="col">Criado em/th>
+            <th scope="col">Criado em</th>
             <th scope="col">Data de entrega</th>
             <th scope="col">Finalizado em</th>
             <th scope="col">Ações</th>
@@ -28,9 +28,9 @@
                   @(todo.FinishedAt.HasValue ? todo.FinishedAt : "-")
                </td>
                <td>
-                  <a asp-controller="Todo" asp-action="Finish" asp-rout-id="@todo.Id" class="btn btn-success btn-sm @(todo.FinishedAt.HasValue ? "disabled" : "")">Concluir</a>
-                  <a asp-controller="Todo" asp-action="Edit" asp-rout-id="@todo.Id" class="btn btn-warning btn-sm @(todo.FinishedAt.HasValue ? "disabled" : "")">Editar</a>
-                  <a asp-controller="Todo" asp-action="Delete" asp-rout-id="@todo.Id" class="btn btn-danger btn-sm">Excluir</a>
+                  <a asp-controller="Todo" asp-action="Finish" asp-route-id="@todo.Id" class="btn btn-success btn-sm @(todo.FinishedAt.HasValue ? "disabled" : "")">Concluir</a>
+                  <a asp-controller="Todo" asp-action="Edit" asp-route-id="@todo.Id" class="btn btn-warning btn-sm @(todo.FinishedAt.HasValue ? "disabled" : "")">Editar</a>
+                  <a asp-controller="Todo" asp-action="Delete" asp-route-id="@todo.Id" class="btn btn-danger btn-sm">Excluir</a>
                </td>
             </tr>
          }
